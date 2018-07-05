@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 15, 2017, 10:41:18 PM
+    Author     : Mourad
+*/
+.searchfd{
+    
+  -fx-background-radius: 20px ;   
+/*  -fx-border-color: white;
+  -fx-background-color: DARKGRAY;*/
+    
+}
+.table
+{
+    -fx-color: #A44A4A;
+    -fx-background-color: transparent;
+   -fx-border-color: black;
+  -fx-control-inner-background: #E4C478;
+  -fx-font-size: 15px; 
+  -fx-font-family: "Copperplate Gothic Light";
+     -fx-background: -fx-accent;
+     -fx-font-style: italic;
+     -fx-font-weight: bolder;
+     /*-fx-text-align: center;*/
+  
+   
+/*    -fx-background-color: yellow;
+    -fx-background-insets: 0, 1, 2;*/
+   
+  /*#415865   #5BAAEC*/
+}
+.sp
+{
+      -fx-color:  #A44A4A;
+ -fx-background-color: black;
+   -fx-border-color: black;
+       /*-fx-background-radius: 20px ;*/ 
+
+         -fx-border-color: black;
+}
+.emailtext 
+{
+     -fx-background-radius: 20px ;  
+}
+.passtext
+{
+     -fx-background-radius: 20px ; 
+}
+.loginbtn{
+     -fx-background-radius: 20px ; 
+}
+.forgetbtn{
+     -fx-background-radius: 20px ; 
+}
+.regbtn{
+     -fx-background-radius: 20px ; 
+}
+.gbtn{
+     -fx-background-radius: 20px ; 
+}
+ 
+
+
+
